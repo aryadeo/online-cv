@@ -8,18 +8,18 @@ sidebar:
 
     # Profile information
     name: ARYA JYOTI DEO
-    tagline: Full Stack Developer
+    tagline: CSIR-SRF
     avatar: Photo_Arya_Jyoti_Deo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: aryadeo15@gmail.com
+    phone: +91-9778389705
+    website: #blog.webjeda.com #do not add http://
+    linkedin: Arya Jyoti Deo
+    github: aryadeo
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 'aryadeoigit'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
