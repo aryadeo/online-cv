@@ -82,7 +82,7 @@ experiences:
     - company: CSIR-Institute of Minerals and Materials Technology, Bhubaneswar
       role: CSIR-Senior Research Fellow
       time: 2018 - Present
-      company:  
+      #company:  
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
